@@ -1,0 +1,1 @@
+metadata-extractor.sample-images
